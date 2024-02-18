@@ -1,8 +1,8 @@
-# O dia a dia de um QA: A prática de teste manuais funcionais :1st_place_medal:
+# Automação Cucumber/Capybara/Selenium :1st_place_medal:
 
 ## Objetivo do projeto
 
-Compreender e imergir nas atividades relativas ao dia a dia de um QA, com foco em testes manuais funcionais no mundo ágil.
+Compreender e imergir nas atividades relativas ao dia a dia de um QA, com foco em testes automatizados.
 
 ## Apresentando o projeto
 
@@ -26,7 +26,7 @@ Compreender e imergir nas atividades relativas ao dia a dia de um QA, com foco e
 
 ## Entendendo o Projeto
 
-- Ideia para o projeto: Uma loja virtual - [SwagLabs Shopping](https://www.saucedemo.com/) 
+- Ideia para o projeto: Uma loja virtual - [Starbugs Coffee](https://starbugs.vercel.app/) 
 
 - Metodologia ágil - Scrum
 
