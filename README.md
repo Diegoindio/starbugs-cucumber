@@ -1,4 +1,4 @@
-# Automação Cucumber/Capybara/Selenium :1st_place_medal:
+# Automação Cucumber/Capybara/Selenium <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DQivDgZ-LOV5JenkcTn5fJVHJyjQJF3zRhGgIDD4ZZCPokYp4t7fwqk4uSV2fd4wLfk&usqp=CAU" alt="BDD Testing Collaboration Tools For Teams Cucumber, 8% OFF" style="zoom:20%;" /> 
 
 ## Objetivo do projeto
 
