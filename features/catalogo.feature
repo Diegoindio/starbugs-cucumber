@@ -12,7 +12,7 @@ Cenário: Acessar o catálogo de cafés na página principal
 
 Cenário: Iniciar a compra de um café
 
-    Dado que estou na página inicial da Starbugs
+    Dado que estou na página principal da Starbugs
     E que desejo comprar o seguinte produto:
     | name  | Expresso Gelado    |
     | price    | R$ 9,99         |
@@ -27,7 +27,7 @@ Cenário: Iniciar a compra de um café
 @temp
 Cenário: Café indisponível
 
-    Dado que estou na página inicial da Starbugs
+    Dado que estou na página principal da Starbugs
     E que desejo comprar o seguinte produto:
     | name  | Expresso Cremoso    |
     Quando inicio a compra desse item

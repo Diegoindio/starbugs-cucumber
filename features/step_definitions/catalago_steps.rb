@@ -8,7 +8,7 @@ Então('eu devo ver uma lista de cafés disponíveis') do
     expect(@home.coffee_list.size).to be > 0
 end
 
-Dado('que estou na página inicial da Starbugs') do
+Dado('que estou na página principal da Starbugs') do
     @home.open
     # visit 'https://starbugs.vercel.app/'
   end
