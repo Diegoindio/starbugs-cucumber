@@ -24,7 +24,7 @@ Cenário: Iniciar a compra de um café
     Então devo ver a página de Checkout com os detalhes do produto
     E o valor totoal da compra deve ser de "R$ 19,99"
 
-@temp
+
 Cenário: Café indisponível
 
     Dado que estou na página principal da Starbugs

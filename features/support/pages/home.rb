@@ -5,7 +5,7 @@ class HomePage
 
 # responsabilidade de abrir a página principal
     def open 
-        visit 'https://starbugs.vercel.app/'
+        visit 'https://starbugs-qa.vercel.app/'
     end
 
     def coffee_list
