@@ -1,4 +1,4 @@
-# Automação Cucumber/Capybara/Selenium <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DQivDgZ-LOV5JenkcTn5fJVHJyjQJF3zRhGgIDD4ZZCPokYp4t7fwqk4uSV2fd4wLfk&usqp=CAU" alt="BDD Testing Collaboration Tools For Teams Cucumber, 8% OFF" style="zoom:20%;" /> 
+# Automação de Testes do Sistema Starbugs <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DQivDgZ-LOV5JenkcTn5fJVHJyjQJF3zRhGgIDD4ZZCPokYp4t7fwqk4uSV2fd4wLfk&usqp=CAU" alt="BDD Testing Collaboration Tools For Teams Cucumber, 8% OFF" style="zoom:13%;" /> 
 
 ## Objetivo do projeto
 
@@ -6,43 +6,69 @@ Compreender e imergir nas atividades relativas ao dia a dia de um QA, com foco e
 
 ## Apresentando o projeto
 
-
-
 **O que será apresentado e acompanhado?**
 
-- Levantamento e análise de requisitos
+- Behavior-Driven Development (**BDD**)
 
-- Configuração e fluxo de trabalho
+- Gherkin
 
-- Atividades de qualidade desenvolvidas em metodologias ágeis
+- Testes Automatizados
 
 **Testes**
 
-- execução: manual
+- execução: automatizado
 
-- níveis: sistema e aceite
+- níveis: regressão, sistema, aceitação e smoke
 
 - tipo: funcional caixa-preta
 
 ## Entendendo o Projeto
 
-- Ideia para o projeto: Uma loja virtual - [Starbugs Coffee](https://starbugs.vercel.app/) 
-
-- Metodologia ágil - Scrum
-
-- Gerenciamento de Projetos: JIRA
-
-- Gerenciamento de Testes: Zephyr Scale
+- Ideia para o projeto: Uma loja virtual - [Starbugs Coffee](https://starbugs.vercel.app/) -  ([QAeXperience]([https://qaxperience.com](https://qaxperience.com/)))
+- Implementar os testes automatizados
 
 ## O desafio deverá conter
 
-- Um plano de fluxo de trabalho de desenvolvido e do ciclo de vida do bug
+- Cucumber para Visual Studio Code
 
-- 2 User Stories pensadas e criadas em formato PDF
+- Capybara e Selenium Webdrive
 
-- Documentos de teste geradas no processo de estudo:
+- Realizar verificações com RSpec
 
-  * Mind-map pelo menos de 1 User Story
-* 2 casos de teste utilizando técnica step-by-step 
+- Especificação de cenários em Gherkin
+
+- Automação web com Capybara
+
+- Organizando os teste com Page Objects
+
+- Fluxo de ponta a ponta
+
+- Adicionando uma nova funcionalidade através de uma User Story:  "**Uso de Cupons no Checkout**" 
+
+- Teste de Regressão e Smoke
+
+- Relatórios cucumber
+
   
-- 2 casos de teste utilizando BDD
+## 💻 Tecnologias
+
+- Ruby
+- Capybara
+- RSpec
+- Cucumber
+- Selenium WebDriver
+
+## Como executar
+
+1. Clonar o repositório, instalar as dependências
+
+```
+bundle install
+```
+
+2. Executar testes de regressão
+
+```
+bundle exec cucumber
+```
+

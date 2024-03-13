@@ -48,9 +48,9 @@ Funcionalidade: Uso de Cupons no Checkout
     # Quando aplico esse cupom de desconto
     # Então deve ser a seguinte notificação "Cupom expirado!"
     #     E o valor final deve permanecer o mesmo
-
+@smoke
     Cenário: Cupom Inválido  
-
+  v 
         Quando aplico o seguinte cupom : "PROMO100"
         Então devo ver a notificação: "Cupom inválido!"
             E o valor final da compra deve permanecer o mesmo
